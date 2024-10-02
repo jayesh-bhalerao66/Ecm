@@ -45,7 +45,7 @@ export default function Hero() {
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 caro2">
-                        <h2 className='text-center'><i>Shop With Us</i></h2>
+                        <h2 className='text-center'><i>Shop fast</i></h2>
                         <p>Experience the Future Today,Leading the Way in Electronic Innovation For businesses, promoting and selling products through an e-commerce platform can expand the business and expand consumer groups more quickly and conveniently and save a lot of costs.</p>
                         <a href="#shopnow"><button type="button" class="btn btn-outline-dark py-2 px-5">Shop Now</button></a>
                     </div>
